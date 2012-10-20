@@ -1,3 +1,3 @@
 <?php
-	echo 'Sup?';
+	echo 'Sup? Updated.';
 ?>
